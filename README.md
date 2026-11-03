@@ -1,4 +1,4 @@
-# sql-learning-notes1
+# SQL-learning-notes1
 Introduction to SQL: A Beginner's Guide to Creating, Reading, Updating, and Deleting Data
 
 Intoduction
